@@ -1,1 +1,2 @@
-# proyectofinal
+# cronometroher
+cronometro de la tarea
